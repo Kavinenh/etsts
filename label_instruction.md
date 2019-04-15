@@ -50,6 +50,27 @@ The first class-character indicates the time.
 Road class  (Second class-character)
 Road-Line   (Vienna Convention on Road Signs and Signals)
 
+### Road Marking
+| Code | Type |
+| ---- | ---- |
+|A  |Double Solid Yellow Line
+|B  |Double Broken Yellow Line
+|C  |Solid Broken Yellow Line
+|D  |Broken Solid Yellow Line
+|E  |Solid Yellow Line
+|F  |Broken Yellow Line
+|G  |Double Solid White Line
+|H  |Double Broken White Line
+|I  |Solid White Line
+|J  |Broken WHite Line
+|K  |Straight Left Turn
+|L  |Left Turn
+|M  |No Left Turn
+|N  |Straight Right Turn
+|O  |Right Turn
+|P  |No Right Turn
+
+
 ### Signs
 Sign    (Vienna Convention on Road Signs and Signals)
 
